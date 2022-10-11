@@ -20,6 +20,7 @@ while (i < len1 && j < len2)
         res[tmp] = arr2[j];
         tmp += 1;
         j += 1;
+
     }
 }
 if (i != len1)
