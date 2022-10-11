@@ -1,4 +1,5 @@
-﻿/*int[] arr1 = new int[] { 1, 3, 5 };
+/слияние
+int[] arr1 = new int[] { 1, 3, 5 };
 int[] arr2 = new int[] { 2, 4, 6, 8 };
 
 int len1 = arr1.Length;
@@ -47,8 +48,8 @@ for (int g = 0; g < res.Length; g++)
 {
     Console.WriteLine(res[g]);
 }
-*/
-/*
+
+/Пересечение 
 using System;
 
 int[] arr1 = new int[] { 1, 3, 5,8,9 };
@@ -96,8 +97,8 @@ for (int g = 0; g < res.Length; g++)
     Console.WriteLine(res[g]);
 
 }
-*/
-/*int[] arr1 = new int[] { 1, 3, 5, 8, 9 };
+/Разница
+int[] arr1 = new int[] { 1, 3, 5, 8, 9 };
 int[] arr2 = new int[] { 1, 4, 6, 8 };
 
 int len1 = arr1.Length;
@@ -133,4 +134,3 @@ for (int g = 0; g < res.Length; g++)
     Console.WriteLine(res[g]);
 
 }
-*/
